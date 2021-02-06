@@ -2,7 +2,7 @@
 
 😎 I'm Jairo a **FullStack .Net Developer** based in Barcelona, Spain. 
 
-⚡ Coding in [Cotecna Inspections SA](https://www.cotecna.com) IT developer center.
+⚡ Coding in [Cotecna Inspections SA](https://www.cotecna.com) IT development center.
 
 Despite of my profesional carreer I love to learn **new stacks, lenguajes, technologies, etc** so I will be happy to help or to be helped in my personal projects.
 In my profile you will be able to find differents **personal projects** and real **Interview Test solutions**, you can take a look if you're curious 😄.
