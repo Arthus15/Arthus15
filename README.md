@@ -12,8 +12,8 @@ In my profile you will be able to find differents **personal projects** and real
 
 📫 You can reach me through my RRSS(👇) or through [GitHub](https://github.com/Arthus15).
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jairo-blanco-aldao-02696a121/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Arthus15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8490882/jairo-blanco-aldao?tab=profile)
-
+<a href="https://www.linkedin.com/in/jairo-blanco-aldao-02696a121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/Jairoblanco94"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 ---
 ![Arthus15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthus15&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthus15&layout=compact&count_private=true&show_icons=true&theme=gruvbox)
