@@ -12,8 +12,8 @@ In my profile you will be able to find differents **personal projects** and real
 
 📫 You can reach me through my RRSS(👇) or through [GitHub](https://github.com/Arthus15).
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jairo-blanco-aldao-02696a121/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Arthus15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8490882/jairo-blanco-aldao?tab=profile)
+
+---
 ![Arthus15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthus15&count_private=true&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthus15&layout=compact&count_private=true&show_icons=true&theme=gruvbox)
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jairo-blanco-aldao-02696a121/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/Arthus15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/8490882/jairo-blanco-aldao?tab=profile)
