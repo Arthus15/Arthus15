@@ -4,8 +4,8 @@
 
 ⚡ Coding in [Sage](https://www.sage.com/) for [AutoEntry](https://www.autoentry.com).
 
-Despite of my profesional carreer I love to learn **new stacks, lenguajes, technologies, etc** so I will be happy to help or to be helped in my personal projects.
-In my profile you will be able to find differents **personal projects** and real **Interview Test solutions**, you can take a look if you're curious 😄.
+Despite of my profesional carreer I love to learn **new stacks, languages, technologies, etc** so I will be happy to help or to be helped in my personal projects.
+In my profile you will be able to find different **personal projects** and real **Interview Test solutions**, you can take a look if you're curious 😄.
 
 
 💬 I mainly have profesional experience with the stack **Angular-.Net Core** so **_feel free to ask whatever you need_** (including DevOps, docker, Database, etc).
