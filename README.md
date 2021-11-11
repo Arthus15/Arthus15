@@ -4,7 +4,7 @@
 
 ⚡ Coding in [Sage](https://www.sage.com/) for [AutoEntry](https://www.autoentry.com).
 
-Despite of my profesional carreer I love to learn **new stacks, languages, technologies, etc** so I will be happy to help or to be helped in my personal projects.
+Despite of my profesional carreer I love to learn **new stacks, languages, technologies and so on** so I will be happy to help or to be helped in my personal projects.
 In my profile you will be able to find different **personal projects** and real **Interview Test solutions**, you can take a look if you're curious 😄.
 
 
