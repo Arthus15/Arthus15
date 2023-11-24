@@ -1,16 +1,14 @@
-### Hello there 👋!
+### Hello there! 👋
 
-😎 I'm Jairo a **FullStack .Net Developer** based in Barcelona, Spain. 
+😎 I'm Jairo, a passionate FullStack .Net Developer based in the vibrant city of Barcelona, Spain.
 
-⚡ Coding in [Sage](https://www.sage.com/) for [AutoEntry](https://www.autoentry.com).
+⚡ Currently, I'm immersed in the world of coding with Sage for AutoEntry, adding my expertise to this dynamic field.
 
-Despite of my profesional carreer I love to learn **new stacks, languages, technologies and so on** so I will be happy to help or to be helped in my personal projects.
-In my profile you will be able to find different **personal projects** and real **Interview Test solutions**, you can take a look if you're curious 😄.
+Despite my professional journey, I thrive on expanding my knowledge by delving into new stacks, languages, and technologies. I'm always eager to contribute and receive assistance in my personal projects. Explore my profile for a glimpse into various personal projects and real interview test solutions—I'd love to hear your thoughts! 😄
 
+💬 My primary professional expertise lies in the Angular-.Net Core stack, covering a spectrum that includes DevOps, Docker, Database management, and more. Feel free to reach out with any questions or discussions.
 
-💬 I mainly have profesional experience with the stack **Angular-.Net Core** so **_feel free to ask whatever you need_** (including DevOps, docker, Database, etc).
-
-📫 You can reach me through my RRSS(👇) or through [GitHub](https://github.com/Arthus15).
+📫 Connect with me through my social media channels (👇) or find me on GitHub. Let's build and innovate together!
 
 <a href="https://www.linkedin.com/in/jairo-blanco-aldao-02696a121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/jairoblanco94/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
